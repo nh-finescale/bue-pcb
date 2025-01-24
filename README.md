@@ -20,6 +20,7 @@ The configuration depends on your use case
 ## case 1
 
 this use case is for a locally manned crossing, no train detection is used. The crossing is started and stopped manually
+
 ![scenario 1](/img/scenario-1.jpg)
 
 pcb used are:
@@ -27,27 +28,32 @@ pcb used are:
 - 1 Bue-control
 - 2 Bue-signal
 
+
+
 ## case 2
 
 this use case is for a train operated crossing,  train detection is used. The crossing is started and stopped by the train, a manual override is possible using the control box
-![scenario 1](/img/scenario-2.jpg)
 
+![scenario 2](/img/scenario-2.jpg)
 pcb used are:
 - 1 Bue-main
 - 2 Bue-control
 - 2 Bue-Sensor
 - 2 Bue-signal
+
 
 ## case 3
 
 this use case is also for a train operated crossing,  train detection is used. The crossing is started and stopped by the train, a manual override for the detection is possible using the control box, there is no manual override to stop/start the crossing
-![scenario 1](/img/scenario-3.jpg)
+
+![scenario 3](/img/scenario-3.jpg)
 
 pcb used are:
 - 1 Bue-main
 - 2 Bue-control
 - 2 Bue-Sensor
 - 2 Bue-signal
+
 
 # Manuals
 see https://github.com/Kleinbahner/BUESte?tab=readme-ov-file#manuals
