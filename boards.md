@@ -1,4 +1,5 @@
 ## RJ12 in Watti ##
+Use a low profile RJ12 connector
 ![](/img/1RJ12.png)
 
 ##  RJ45 Schraubklemmen ##
